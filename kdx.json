@@ -1,12 +1,15 @@
 {
-  "version": "0.1.2",
-  "description": "Kodexa CLI - Command-line interface for Kodexa platform",
-  "homepage": "https://www.kodexa.com",
-  "license": "Proprietary",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/kodexa-ai/kdx-cli-releases/releases/download/v0.1.2/kdx_0.1.2_windows_x86_64.zip",
-      "bin": "kdx.exe"
-    }
-  }
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kodexa-ai/kdx-cli-releases/releases/download/v0.1.3/kdx_0.1.3_windows_x86_64.zip",
+            "bin": [
+                "kdx.exe"
+            ],
+            "hash": "b408a9d77942c5eaec6287de8397a76d79aa28ee5896dfed406754d1c29d503f"
+        }
+    },
+    "homepage": "https://www.kodexa.com",
+    "license": "Proprietary",
+    "description": "Kodexa CLI - Command-line interface for Kodexa platform"
 }
