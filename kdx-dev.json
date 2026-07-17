@@ -1,12 +1,12 @@
 {
-    "version": "2026.9.0-fix-ENGG-5439-wasm-create-fires-event-subs-develop-29576421571",
+    "version": "2026.9.0-develop-29576493606",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kodexa-ai/kdx-cli-releases/releases/download/v2026.9.0-fix-ENGG-5439-wasm-create-fires-event-subs-develop-29576421571/kdx-dev_2026.9.0-fix-ENGG-5439-wasm-create-fires-event-subs-develop-29576421571_windows_x86_64.zip",
+            "url": "https://github.com/kodexa-ai/kdx-cli-releases/releases/download/v2026.9.0-develop-29576493606/kdx-dev_2026.9.0-develop-29576493606_windows_x86_64.zip",
             "bin": [
                 "kdx-dev.exe"
             ],
-            "hash": "59773f6c0961fb82843d0ed1f3e3054be14d1e6f5d2cf3b0a0245ff23cfb7a55"
+            "hash": "b87222748063216ded607980057840c1b75377efab237cc20a92e140891180c0"
         }
     },
     "homepage": "https://www.kodexa.com",
