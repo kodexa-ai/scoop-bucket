@@ -1,12 +1,12 @@
 {
-    "version": "2026.13.0-develop-36593992246",
+    "version": "2026.13.0-develop-36603855983",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kodexa-ai/kdx-cli-releases/releases/download/v2026.13.0-develop-36593992246/kdx-dev_2026.13.0-develop-36593992246_windows_x86_64.zip",
+            "url": "https://github.com/kodexa-ai/kdx-cli-releases/releases/download/v2026.13.0-develop-36603855983/kdx-dev_2026.13.0-develop-36603855983_windows_x86_64.zip",
             "bin": [
                 "kdx-dev.exe"
             ],
-            "hash": "f65fed8156c1194da7af667e40134fcda65c2dd935851dbc618bcaebd52abfb9"
+            "hash": "fdc265a84af5fb37c3a4b43d90bad5a15f02743d0fd63e9549618040626f85ad"
         }
     },
     "homepage": "https://www.kodexa.com",
